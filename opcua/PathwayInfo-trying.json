@@ -1,0 +1,402 @@
+[
+    {
+        "Name": "Pathway Area #2",
+        "X": 2931.874,
+        "Y": 1030.333,
+        "Rz": 90,
+        "AreaLength": 10778.0716087009,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #3",
+        "X": -4898.029,
+        "Y": -3880.655,
+        "Rz": 0,
+        "AreaLength": 12971.915649249,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #4",
+        "X": 2927.962,
+        "Y": -10544.944,
+        "Rz": -90,
+        "AreaLength": 12223.5152699571,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #5",
+        "X": -14793.717,
+        "Y": 1897.733,
+        "Rz": 0,
+        "AreaLength": 6822.06157648266,
+        "AreaWidth": 15318.2696117963
+    },
+    {
+        "Name": "Pathway Area #6",
+        "X": 9015.494,
+        "Y": -17979.59,
+        "Rz": 180,
+        "AreaLength": 15355.3098260552,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #7",
+        "X": 3039.292,
+        "Y": 13141.206,
+        "Rz": 90,
+        "AreaLength": 13401.8404421149,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #8",
+        "X": 10803.001,
+        "Y": 21595.726,
+        "Rz": 0,
+        "AreaLength": 12009.6009059099,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #9",
+        "X": 10607.582,
+        "Y": 6794.015,
+        "Rz": 0,
+        "AreaLength": 12575.4821725402,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #10",
+        "X": 18218.724,
+        "Y": 13551.05,
+        "Rz": -90,
+        "AreaLength": 13418.7076181263,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #11",
+        "X": 18138.358,
+        "Y": 737.183,
+        "Rz": -90,
+        "AreaLength": 12118.4148437442,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #12",
+        "X": 18129.519,
+        "Y": -10981.1,
+        "Rz": -90,
+        "AreaLength": 11210.2334971378,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #13",
+        "X": -6204.979,
+        "Y": -17941.995,
+        "Rz": 180,
+        "AreaLength": 14806.9604343592,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #14",
+        "X": -15067.272,
+        "Y": -11241.768,
+        "Rz": 90,
+        "AreaLength": 10673.8811012542,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #15",
+        "X": -9985.864,
+        "Y": 14235.891,
+        "Rz": 90,
+        "AreaLength": 12190.156066705,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #16",
+        "X": -1747.529,
+        "Y": 21534.396,
+        "Rz": 0,
+        "AreaLength": 13048.7477325521,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #17",
+        "X": 23824.193,
+        "Y": 21601.207,
+        "Rz": 0,
+        "AreaLength": 14037.7530922594,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #18",
+        "X": 24587.436,
+        "Y": 7093.1,
+        "Rz": 0,
+        "AreaLength": 10087.7184164244,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #19",
+        "X": 23085.128,
+        "Y": -18055.439,
+        "Rz": 0,
+        "AreaLength": 12520.3320850117,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #20",
+        "X": 30890.367,
+        "Y": 13407.587,
+        "Rz": 90,
+        "AreaLength": 13401.8404421149,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #21",
+        "X": 30887.992,
+        "Y": 1048.284,
+        "Rz": 90,
+        "AreaLength": 11207.3807116473,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #22",
+        "X": 30928.304,
+        "Y": -10741.853,
+        "Rz": 90,
+        "AreaLength": 12392.5943619447,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #23",
+        "X": 37881.794,
+        "Y": 21592.76,
+        "Rz": 0,
+        "AreaLength": 14037.7530922594,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #24",
+        "X": 38615.254,
+        "Y": 7054.55,
+        "Rz": 0,
+        "AreaLength": 12889.9705220956,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #25",
+        "X": 37232.235,
+        "Y": -18187.09,
+        "Rz": 0,
+        "AreaLength": 15323.246525882,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #26",
+        "X": 46468.839,
+        "Y": 13606.548,
+        "Rz": 90,
+        "AreaLength": 13401.8404421149,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #27",
+        "X": 46437.298,
+        "Y": 1143.631,
+        "Rz": 90,
+        "AreaLength": 11345.4755167308,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #28",
+        "X": 46403.706,
+        "Y": -10834.344,
+        "Rz": 90,
+        "AreaLength": 12523.4194810186,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #29",
+        "X": 51974.108,
+        "Y": 21555.586,
+        "Rz": 0,
+        "AreaLength": 14037.7530922594,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #30",
+        "X": 52714.357,
+        "Y": 7047.479,
+        "Rz": 0,
+        "AreaLength": 10018.6863883675,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #31",
+        "X": 51328.823,
+        "Y": -18249.191,
+        "Rz": 0,
+        "AreaLength": 12639.8184872598,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #32",
+        "X": 59040.282,
+        "Y": 13361.966,
+        "Rz": 90,
+        "AreaLength": 13401.8404421149,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #33",
+        "X": 59037.908,
+        "Y": 914.616,
+        "Rz": 90,
+        "AreaLength": 11383.4745786603,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #34",
+        "X": 59078.219,
+        "Y": -10904.162,
+        "Rz": 90,
+        "AreaLength": 12159.2174547821,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #35",
+        "X": 66783.133,
+        "Y": 21547.139,
+        "Rz": 0,
+        "AreaLength": 15540.599378139,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #36",
+        "X": 66659.756,
+        "Y": 7008.929,
+        "Rz": 0,
+        "AreaLength": 12679.1420856138,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #37",
+        "X": 65933.27,
+        "Y": -18232.711,
+        "Rz": 0,
+        "AreaLength": 16425.4835939607,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #38",
+        "X": 74618.754,
+        "Y": 13470.406,
+        "Rz": 90,
+        "AreaLength": 13220.7975356137,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #39",
+        "X": 74587.213,
+        "Y": 1100.034,
+        "Rz": 90,
+        "AreaLength": 11341.4293969112,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #40",
+        "X": 74553.622,
+        "Y": -10779.924,
+        "Rz": 90,
+        "AreaLength": 12299.5792625431,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #41",
+        "X": 80380.007,
+        "Y": 21479.766,
+        "Rz": 0,
+        "AreaLength": 11391.3038433928,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #42",
+        "X": 82437.065,
+        "Y": 6889.696,
+        "Rz": 0,
+        "AreaLength": 12981.6381224667,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #43",
+        "X": 82737.949,
+        "Y": -18249.128,
+        "Rz": 0,
+        "AreaLength": 16935.1309767568,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #44",
+        "X": 87300.862,
+        "Y": 13982.38,
+        "Rz": 90,
+        "AreaLength": 11825.1915046927,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #45",
+        "X": 92424.412,
+        "Y": 6835.964,
+        "Rz": 180,
+        "AreaLength": 6822.06157648266,
+        "AreaWidth": 15318.2696117963
+    },
+    {
+        "Name": "Pathway Area #46",
+        "X": 92373.292,
+        "Y": -8960.7,
+        "Rz": 90,
+        "AreaLength": 15755.4527651776,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #47",
+        "X": 10547.075,
+        "Y": -4223.611,
+        "Rz": 0,
+        "AreaLength": 12350.2374691931,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #48",
+        "X": 24580.207,
+        "Y": -4320.004,
+        "Rz": 0,
+        "AreaLength": 10295.908320189,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #49",
+        "X": 38659.056,
+        "Y": -4564.437,
+        "Rz": 0,
+        "AreaLength": 12960.4545034247,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #50",
+        "X": 52705.477,
+        "Y": -4464.246,
+        "Rz": 0,
+        "AreaLength": 9862.09933891441,
+        "AreaWidth": 2300
+    },
+    {
+        "Name": "Pathway Area #51",
+        "X": 66775.16,
+        "Y": -4483.303,
+        "Rz": 0,
+        "AreaLength": 12810.3477089071,
+        "AreaWidth": 2300
+    },
+]
